@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome"
 ---
 
 ![image tooltip here](/assets/images/sonali.jpg)
