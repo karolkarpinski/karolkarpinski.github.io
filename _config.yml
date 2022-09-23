@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Karol Karpinski"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/karol.jpg"
   bio    : "Bureaucrat. Financial plumber. Aspiring glider pilot."
   links:
     - label: "Twitter"
@@ -69,8 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
-header:
-  image: "/assets/images/karol.jpg"
+
 
 footer:
 
